@@ -1,0 +1,23 @@
+{
+  "name": "anyfs.local",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyfs/local.git"
+  },
+  "keywords": [
+    "anyfs",
+    "local"
+  ],
+  "author": "Liu Dong <ddliuhb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anyfs/local/issues"
+  },
+  "homepage": "https://github.com/anyfs/local"
+}
